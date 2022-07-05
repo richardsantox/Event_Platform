@@ -67,7 +67,7 @@ async function handleSubscribe(event: FormEvent) {
                 </div>
             </div>
 
-            <img src="/src/assets/code-mockup.png" className="mt-10" alt="" />
+            <img src="https://i.imgur.com/IFYVnv7.png" className="mt-5" alt="" />
         </div>
     );
 }
